@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://azestkingscrown.cloud/uploads/1781243029265-1000004798.jpg" width="40%" />
-  <img src="https://azestkingscrown.cloud/uploads/1781243035564-1000004800.jpg" width="40%" />
+  <img src="https://azestkingscrown.cloud/uploads/1781255563599-1000004924.jpg" width="40%" />
 </p>
 
 
