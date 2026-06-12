@@ -2,7 +2,7 @@
 
 치지직(CHZZK) 스트리머의 커뮤니티 게시글 등록을 실시간으로 감지하여 모바일 기기로 즉각 푸시 알림을 전송해 주는 Android용 하이브리드 애플리케이션입니다.
 
-<img src="https://azestkingscrown.cloud/uploads/1781243029265-1000004798.jpg" height="540px" /> <img src="https://azestkingscrown.cloud/uploads/1781243035564-1000004800.jpg" height="540px" />
+<img src="https://azestkingscrown.cloud/uploads/1781243029265-1000004798.jpg" height="520px" /> <img src="https://azestkingscrown.cloud/uploads/1781243035564-1000004800.jpg" height="520px" />
 
 
 ---
